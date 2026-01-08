@@ -1,0 +1,9 @@
+[submodule "base"]
+	path = base
+	url = https://github.com/potentialInc/claude-base.git
+[submodule "django"]
+	path = django
+	url = https://github.com/potentialInc/claude-django.git
+[submodule "react"]
+	path = react
+	url = https://github.com/potentialInc/claude-react.git
